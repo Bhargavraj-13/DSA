@@ -2,6 +2,8 @@
 
 Divide, sort, merge. O(n log n) and stable. The merge step can also count pairs.
 
+**Prerequisites:** [Recursion](../../concepts/08-recursion/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Implement it from scratch | [C++](0912-sort-an-array.cpp) |

@@ -2,6 +2,8 @@
 
 Number properties, modular reasoning, overflow and geometry.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Reverse half the digits | [C++](0009-palindrome-number.cpp) |

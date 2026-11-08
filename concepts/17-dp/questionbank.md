@@ -2,6 +2,8 @@
 
 Define state, write the transition, then choose memoisation or tabulation.
 
+**Prerequisites:** [Recursion](../08-recursion/questionbank.md), [Backtracking](../09-backtracking/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Base 1D recurrence | [C++](0070-climbing-stairs.cpp) |

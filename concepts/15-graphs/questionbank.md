@@ -2,6 +2,8 @@
 
 Modelling problems as nodes and edges: traversal, cycles, ordering and connectivity.
 
+**Prerequisites:** [DFS](../13-dfs/questionbank.md), [BFS](../14-bfs/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | Adjacency list and traversal | [C++](1971-find-if-path-exists-in-graph.cpp) |

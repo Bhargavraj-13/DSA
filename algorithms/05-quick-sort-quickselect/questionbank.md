@@ -2,6 +2,8 @@
 
 Partition around a pivot. Average O(n log n) to sort and average O(n) to select the kth item.
 
+**Prerequisites:** [Recursion](../../concepts/08-recursion/questionbank.md), [Two Pointers](../../concepts/04-pointers/two-pointers/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | Needs a random pivot to pass | [C++](0912-sort-an-array.cpp) |

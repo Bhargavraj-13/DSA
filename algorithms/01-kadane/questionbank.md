@@ -2,9 +2,11 @@
 
 Best subarray ending here: extend it or restart. O(n) time, O(1) space.
 
+**Prerequisites:** [Arrays](../../concepts/01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
-| ☐ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Kadane on daily differences | [C++](0121-best-time-to-buy-and-sell-stock.cpp) |
+| ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Kadane on daily differences | [C++ (Arrays)](../../concepts/01-arrays/0121-best-time-to-buy-and-sell-stock.cpp) |
 | ☐ | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Base form | [C++](0053-maximum-subarray.cpp) |
 | ☐ | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Track both max and min | [C++](0152-maximum-product-subarray.cpp) |
 | ☐ | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | Total minus minimum subarray | [C++](0918-maximum-sum-circular-subarray.cpp) |

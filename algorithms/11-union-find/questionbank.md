@@ -2,6 +2,8 @@
 
 Near-constant merge and find with path compression and union by rank or size.
 
+**Prerequisites:** [Graphs](../../concepts/15-graphs/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | Count components | [C++](0547-number-of-provinces.cpp) |

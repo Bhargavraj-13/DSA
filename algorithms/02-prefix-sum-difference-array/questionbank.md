@@ -2,6 +2,8 @@
 
 O(n) preprocessing for O(1) range sums, and O(1) range updates applied in one final pass.
 
+**Prerequisites:** [Arrays](../../concepts/01-arrays/questionbank.md), [Hashmap](../../concepts/03-hashmap/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | Base prefix sum | [C++](0303-range-sum-query-immutable.cpp) |

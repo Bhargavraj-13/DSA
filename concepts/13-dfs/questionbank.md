@@ -2,6 +2,8 @@
 
 Go deep first using recursion or a stack. Covers tree paths, grids and reachability.
 
+**Prerequisites:** [Recursion](../08-recursion/questionbank.md), [Trees](../10-trees/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Base grid DFS | [C++](0733-flood-fill.cpp) |

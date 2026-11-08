@@ -2,6 +2,8 @@
 
 Base cases, trusting the smaller call and reasoning about the call stack.
 
+**Prerequisites:** [Linked Lists](../07-linked-lists/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Base recurrence | [C++](0509-fibonacci-number.cpp) |

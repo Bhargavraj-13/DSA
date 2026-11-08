@@ -2,6 +2,8 @@
 
 Connect all nodes at minimum cost. Prim's grows with a heap; Kruskal's sorts edges with union-find. O(E log V).
 
+**Prerequisites:** [Union-Find (DSU)](../11-union-find/questionbank.md), [Heaps](../../concepts/11-heaps/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium | Base form, solve it both ways | [C++](1584-min-cost-to-connect-all-points.cpp) |

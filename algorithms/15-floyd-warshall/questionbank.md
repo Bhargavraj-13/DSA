@@ -2,6 +2,8 @@
 
 All-pairs shortest paths by trying each node as an intermediate. O(V^3).
 
+**Prerequisites:** [Graphs](../../concepts/15-graphs/questionbank.md), [Dynamic Programming](../../concepts/17-dp/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Base form | [C++](1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp) |

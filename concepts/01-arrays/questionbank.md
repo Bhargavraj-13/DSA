@@ -2,6 +2,8 @@
 
 In-place updates, running state, matrix traversal and interval handling.
 
+**Prerequisites:** None, start here.
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Track the minimum so far | [C++](0121-best-time-to-buy-and-sell-stock.cpp) |

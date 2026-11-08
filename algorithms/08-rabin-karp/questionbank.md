@@ -2,6 +2,8 @@
 
 Rolling hash for fast substring comparison. Expected O(n + m). Watch for collisions.
 
+**Prerequisites:** [Strings](../../concepts/02-strings/questionbank.md), [Hashmap](../../concepts/03-hashmap/questionbank.md), [Binary Search](../../concepts/05-binary-search/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Base form | [C++](0028-find-the-index-of-the-first-occurrence-in-a-string.cpp) |

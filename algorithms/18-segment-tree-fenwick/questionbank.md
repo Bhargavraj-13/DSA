@@ -2,6 +2,8 @@
 
 Range queries with point or range updates. O(log n) per operation.
 
+**Prerequisites:** [Trees](../../concepts/10-trees/questionbank.md), [Recursion](../../concepts/08-recursion/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Medium | Base form for both structures | [C++](0307-range-sum-query-mutable.cpp) |

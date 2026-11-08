@@ -2,6 +2,8 @@
 
 Move two indices with a rule that safely discards options. Usually needs sorted or symmetric input.
 
+**Prerequisites:** [Arrays](../../01-arrays/questionbank.md), [Strings](../../02-strings/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Fill from the largest end | [C++](0977-squares-of-a-sorted-array.cpp) |

@@ -2,6 +2,8 @@
 
 Relax every edge V-1 times. Handles negative weights and detects negative cycles. O(VE).
 
+**Prerequisites:** [Graphs](../../concepts/15-graphs/questionbank.md), [Dijkstra's Algorithm](../13-dijkstra/questionbank.md)
+
 > LeetCode has few direct Bellman-Ford problems and no classic negative-cycle one. For that, use CSES [High Score](https://cses.fi/problemset/task/1673) and [Cycle Finding](https://cses.fi/problemset/task/1197).
 
 | Done | # | Problem | Difficulty | Key idea | Solution |
