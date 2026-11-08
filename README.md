@@ -2,9 +2,9 @@
 
 Work through the concepts in order, since each one builds on earlier ones. The algorithms table shows when to start each one.
 
-**Progress:** 1 solved, 366 remaining, out of 367 problems.
+**Progress:** 0 solved, 367 remaining, out of 367 problems.
 
-> **Note:** All solutions are my own. I used AI to help write the explanations, so my ideas are explained in a clear, standard way that anyone can follow.
+> My own C++ solutions are on the [`solutions` branch](https://github.com/Bhargavraj-13/DSA/tree/solutions).
 
 ## How to practise
 
@@ -23,7 +23,7 @@ To update the ticks without committing, run `python3 scripts/update_progress.py`
 
 | Topic | Focus | Solved | Remaining |
 |---|---|---|---|
-| [Arrays](concepts/01-arrays/questionbank.md) | In-place updates, running state, matrix traversal and interval handling. | 1 | 13 |
+| [Arrays](concepts/01-arrays/questionbank.md) | In-place updates, running state, matrix traversal and interval handling. | 0 | 14 |
 | [Strings](concepts/02-strings/questionbank.md) | Character counting, parsing, palindromes and building output efficiently. | 0 | 14 |
 | [Hashmap](concepts/03-hashmap/questionbank.md) | Constant-time lookup, frequency counting and storing what you have already seen. | 0 | 13 |
 | [Two Pointers](concepts/04-pointers/two-pointers/questionbank.md) | Move two indices with a rule that safely discards options. Usually needs sorted or symmetric input. | 0 | 12 |
