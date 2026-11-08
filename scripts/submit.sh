@@ -6,6 +6,7 @@ cd "$(dirname "$0")/.."
 
 python3 scripts/update_progress.py
 git add -- README.md concepts algorithms scripts
+[ -e .dsa.json ] && git add -- .dsa.json
 
 if git diff --cached --quiet; then
   echo "Nothing new to commit."
