@@ -1,0 +1,24 @@
+// 223. Rectangle Area
+// https://leetcode.com/problems/rectangle-area/
+// Difficulty: Medium | Topic: Math
+
+#include <bits/stdc++.h>
+using namespace std;
+
+// Write your solution below this line.
+
+
+/*
+Explanation:
+
+
+Complexity:
+  Time:
+  Space:
+
+Dry run:
+
+Note:
+  The solution is my own. I used AI to help write this explanation, so my
+  ideas are explained in a clear, standard way that anyone can follow.
+*/
