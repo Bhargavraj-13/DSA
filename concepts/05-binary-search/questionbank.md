@@ -2,6 +2,8 @@
 
 Search sorted data, or binary search the answer when feasibility is monotonic.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Base template |  |

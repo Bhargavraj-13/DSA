@@ -2,6 +2,8 @@
 
 Slow and fast pointers meet inside a cycle, then a reset finds its entry. O(n) time, O(1) space.
 
+**Prerequisites:** [Linked Lists](../../concepts/07-linked-lists/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Detect a cycle |  |

@@ -2,6 +2,8 @@
 
 Use discovery and low-link times to find bridges, articulation points and SCCs. O(V + E).
 
+**Prerequisites:** [DFS](../../concepts/13-dfs/questionbank.md), [Graphs](../../concepts/15-graphs/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | Bridges, base form |  |

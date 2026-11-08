@@ -2,6 +2,8 @@
 
 Constant-time lookup, frequency counting and storing what you have already seen.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md), [Strings](../02-strings/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Look up the complement |  |

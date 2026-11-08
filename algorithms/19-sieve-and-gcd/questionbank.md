@@ -2,6 +2,8 @@
 
 Generate primes in O(n log log n), and compute GCD in O(log min(a, b)).
 
+**Prerequisites:** [Math](../../concepts/19-math/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Base GCD |  |

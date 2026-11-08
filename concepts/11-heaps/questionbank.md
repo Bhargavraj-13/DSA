@@ -2,6 +2,8 @@
 
 Repeated access to the smallest or largest item, and the top k pattern.
 
+**Prerequisites:** [Trees](../10-trees/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Min-heap of size k |  |

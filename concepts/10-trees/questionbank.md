@@ -2,6 +2,8 @@
 
 Binary tree recursion, BST ordering, construction and values returned from subtrees.
 
+**Prerequisites:** [Recursion](../08-recursion/questionbank.md), [Stacks and Queues](../06-stacks-and-queues/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Recursive and iterative |  |

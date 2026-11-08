@@ -2,7 +2,7 @@
 
 Work through the concepts in order, since each one builds on earlier ones. The algorithms table shows when to start each one.
 
-**Progress:** 0 solved, 367 remaining, out of 367 problems.
+**Progress:** 0 solved, 332 remaining, out of 332 problems.
 
 > My own C++ solutions are on the [`solutions` branch](https://github.com/Bhargavraj-13/DSA/tree/solutions).
 
@@ -51,21 +51,21 @@ Some problems appear in both a concept and an algorithm list because they can be
 | Topic | Start after | Focus | Solved | Remaining |
 |---|---|---|---|---|
 | [Kadane's Algorithm](algorithms/01-kadane/questionbank.md) | Arrays | Best subarray ending here: extend it or restart. O(n) time, O(1) space. | 0 | 8 |
-| [Prefix Sum and Difference Array](algorithms/02-prefix-sum-difference-array/questionbank.md) | Hashmap | O(n) preprocessing for O(1) range sums, and O(1) range updates applied in one final pass. | 0 | 8 |
+| [Prefix Sum and Difference Array](algorithms/02-prefix-sum-difference-array/questionbank.md) | Arrays, Hashmap | O(n) preprocessing for O(1) range sums, and O(1) range updates applied in one final pass. | 0 | 8 |
 | [Boyer-Moore Voting](algorithms/03-boyer-moore-voting/questionbank.md) | Arrays | Cancel out differing votes to find majority candidates. O(n) time, O(1) space, then verify. | 0 | 4 |
 | [Merge Sort](algorithms/04-merge-sort/questionbank.md) | Recursion | Divide, sort, merge. O(n log n) and stable. The merge step can also count pairs. | 0 | 5 |
-| [Quick Sort and Quickselect](algorithms/05-quick-sort-quickselect/questionbank.md) | Recursion | Partition around a pivot. Average O(n log n) to sort and average O(n) to select the kth item. | 0 | 6 |
+| [Quick Sort and Quickselect](algorithms/05-quick-sort-quickselect/questionbank.md) | Recursion, Two Pointers | Partition around a pivot. Average O(n log n) to sort and average O(n) to select the kth item. | 0 | 6 |
 | [Floyd's Cycle Detection](algorithms/06-floyd-cycle-detection/questionbank.md) | Linked Lists | Slow and fast pointers meet inside a cycle, then a reset finds its entry. O(n) time, O(1) space. | 0 | 5 |
 | [KMP](algorithms/07-kmp/questionbank.md) | Strings | Use the longest proper prefix-suffix table to avoid re-scanning text. O(n + m). | 0 | 8 |
-| [Rabin-Karp](algorithms/08-rabin-karp/questionbank.md) | Strings and Hashmap | Rolling hash for fast substring comparison. Expected O(n + m). Watch for collisions. | 0 | 6 |
+| [Rabin-Karp](algorithms/08-rabin-karp/questionbank.md) | Strings, Hashmap, Binary Search | Rolling hash for fast substring comparison. Expected O(n + m). Watch for collisions. | 0 | 6 |
 | [Z-Algorithm](algorithms/09-z-algorithm/questionbank.md) | KMP | Z[i] is the longest match between the string and its suffix at i. O(n). | 0 | 4 |
 | [Manacher's Algorithm](algorithms/10-manacher/questionbank.md) | Strings | Reuse mirrored palindrome radii to find all palindromes. O(n). | 0 | 4 |
 | [Union-Find (DSU)](algorithms/11-union-find/questionbank.md) | Graphs | Near-constant merge and find with path compression and union by rank or size. | 0 | 9 |
 | [Topological Sort](algorithms/12-topological-sort/questionbank.md) | Graphs | Order a DAG with Kahn's in-degree BFS or DFS finishing order. O(V + E). | 0 | 7 |
-| [Dijkstra's Algorithm](algorithms/13-dijkstra/questionbank.md) | Graphs and Heaps | Single-source shortest paths with non-negative weights. O(E log V) with a heap. | 0 | 8 |
-| [Bellman-Ford](algorithms/14-bellman-ford/questionbank.md) | Dijkstra's Algorithm | Relax every edge V-1 times. Handles negative weights and detects negative cycles. O(VE). | 0 | 4 |
-| [Floyd-Warshall](algorithms/15-floyd-warshall/questionbank.md) | Bellman-Ford | All-pairs shortest paths by trying each node as an intermediate. O(V^3). | 0 | 5 |
-| [Minimum Spanning Tree (Prim's and Kruskal's)](algorithms/16-mst-prim-kruskal/questionbank.md) | Union-Find and Heaps | Connect all nodes at minimum cost. Prim's grows with a heap; Kruskal's sorts edges with union-find. O(E log V). | 0 | 5 |
-| [Tarjan's Algorithm](algorithms/17-tarjan-bridges-scc/questionbank.md) | Graphs | Use discovery and low-link times to find bridges, articulation points and SCCs. O(V + E). | 0 | 4 |
-| [Segment Tree and Fenwick Tree](algorithms/18-segment-tree-fenwick/questionbank.md) | Trees | Range queries with point or range updates. O(log n) per operation. | 0 | 8 |
+| [Dijkstra's Algorithm](algorithms/13-dijkstra/questionbank.md) | Graphs, Heaps | Single-source shortest paths with non-negative weights. O(E log V) with a heap. | 0 | 8 |
+| [Bellman-Ford](algorithms/14-bellman-ford/questionbank.md) | Graphs, Dijkstra's Algorithm | Relax every edge V-1 times. Handles negative weights and detects negative cycles. O(VE). | 0 | 4 |
+| [Floyd-Warshall](algorithms/15-floyd-warshall/questionbank.md) | Graphs, Dynamic Programming | All-pairs shortest paths by trying each node as an intermediate. O(V^3). | 0 | 5 |
+| [Minimum Spanning Tree (Prim's and Kruskal's)](algorithms/16-mst-prim-kruskal/questionbank.md) | Union-Find (DSU), Heaps | Connect all nodes at minimum cost. Prim's grows with a heap; Kruskal's sorts edges with union-find. O(E log V). | 0 | 5 |
+| [Tarjan's Algorithm](algorithms/17-tarjan-bridges-scc/questionbank.md) | DFS, Graphs | Use discovery and low-link times to find bridges, articulation points and SCCs. O(V + E). | 0 | 4 |
+| [Segment Tree and Fenwick Tree](algorithms/18-segment-tree-fenwick/questionbank.md) | Trees, Recursion | Range queries with point or range updates. O(log n) per operation. | 0 | 8 |
 | [Sieve of Eratosthenes and Euclid's GCD](algorithms/19-sieve-and-gcd/questionbank.md) | Math | Generate primes in O(n log log n), and compute GCD in O(log min(a, b)). | 0 | 8 |

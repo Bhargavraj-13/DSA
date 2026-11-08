@@ -2,6 +2,8 @@
 
 Cancel out differing votes to find majority candidates. O(n) time, O(1) space, then verify.
 
+**Prerequisites:** [Arrays](../../concepts/01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Base form |  |

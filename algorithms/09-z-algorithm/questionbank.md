@@ -2,6 +2,8 @@
 
 Z[i] is the longest match between the string and its suffix at i. O(n).
 
+**Prerequisites:** [KMP](../07-kmp/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Z on pattern + separator + text |  |

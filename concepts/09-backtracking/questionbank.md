@@ -2,6 +2,8 @@
 
 Choose, explore, undo. Prune early and handle duplicates deliberately.
 
+**Prerequisites:** [Recursion](../08-recursion/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | Include or exclude |  |

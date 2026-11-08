@@ -2,6 +2,8 @@
 
 Order a DAG with Kahn's in-degree BFS or DFS finishing order. O(V + E).
 
+**Prerequisites:** [Graphs](../../concepts/15-graphs/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Can everything be ordered? |  |

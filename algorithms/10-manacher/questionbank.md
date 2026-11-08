@@ -2,6 +2,8 @@
 
 Reuse mirrored palindrome radii to find all palindromes. O(n).
 
+**Prerequisites:** [Strings](../../concepts/02-strings/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Base form |  |

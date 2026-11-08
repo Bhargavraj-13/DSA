@@ -2,6 +2,8 @@
 
 Commit to the locally best choice, and be able to argue why it stays safe.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md), [Heaps](../11-heaps/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | Sort both sides |  |

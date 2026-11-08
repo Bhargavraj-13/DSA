@@ -2,6 +2,8 @@
 
 Prefix trees for shared prefixes, dictionary search and bitwise XOR queries.
 
+**Prerequisites:** [Trees](../10-trees/questionbank.md), [Hashmap](../03-hashmap/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | Base structure |  |

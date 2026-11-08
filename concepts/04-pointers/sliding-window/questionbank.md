@@ -2,6 +2,8 @@
 
 Keep a contiguous range valid: expand right, shrink left. Use for subarray and substring constraints.
 
+**Prerequisites:** [Two Pointers](../two-pointers/questionbank.md), [Hashmap](../../03-hashmap/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Fixed window sum |  |

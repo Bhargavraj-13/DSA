@@ -2,6 +2,8 @@
 
 Character counting, parsing, palindromes and building output efficiently.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Vertical scan |  |

@@ -2,6 +2,8 @@
 
 Nested structure, last-unresolved state and monotonic stacks for next greater or smaller problems.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md), [Strings](../02-strings/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Match the latest opener |  |

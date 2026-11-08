@@ -2,6 +2,8 @@
 
 XOR properties, masks, shifts and counting bits per position.
 
+**Prerequisites:** [Arrays](../01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | XOR cancels pairs |  |

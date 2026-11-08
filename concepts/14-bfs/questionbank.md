@@ -2,6 +2,8 @@
 
 Explore level by level. Finds shortest paths in unweighted graphs and grids.
 
+**Prerequisites:** [Stacks and Queues](../06-stacks-and-queues/questionbank.md), [Trees](../10-trees/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | Process by level size |  |

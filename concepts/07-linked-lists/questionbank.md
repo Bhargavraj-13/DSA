@@ -2,6 +2,8 @@
 
 Pointer rewiring, dummy heads and fast and slow pointers.
 
+**Prerequisites:** [Two Pointers](../04-pointers/two-pointers/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Three-pointer rewire |  |

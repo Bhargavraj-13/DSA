@@ -2,6 +2,8 @@
 
 Best subarray ending here: extend it or restart. O(n) time, O(1) space.
 
+**Prerequisites:** [Arrays](../../concepts/01-arrays/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Kadane on daily differences |  |

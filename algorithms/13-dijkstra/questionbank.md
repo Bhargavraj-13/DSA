@@ -2,6 +2,8 @@
 
 Single-source shortest paths with non-negative weights. O(E log V) with a heap.
 
+**Prerequisites:** [Graphs](../../concepts/15-graphs/questionbank.md), [Heaps](../../concepts/11-heaps/questionbank.md)
+
 | Done | # | Problem | Difficulty | Key idea | Solution |
 |---|---|---|---|---|---|
 | ☐ | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | Base form |  |
