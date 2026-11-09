@@ -2,7 +2,7 @@
 
 Work through the concepts in order, since each one builds on earlier ones. The algorithms table shows when to start each one.
 
-**Progress:** 1 solved, 331 remaining, out of 332 problems.
+**Progress:** 2 solved, 330 remaining, out of 332 problems.
 
 > **Note:** All solutions are my own. I used AI to help write the explanations, so my ideas are explained in a clear, standard way that anyone can follow.
 
@@ -39,7 +39,7 @@ To update the ticks without committing, run `python3 scripts/update_progress.py`
 | [DFS](concepts/13-dfs/questionbank.md) | Go deep first using recursion or a stack. Covers tree paths, grids and reachability. | 0 | 13 |
 | [BFS](concepts/14-bfs/questionbank.md) | Explore level by level. Finds shortest paths in unweighted graphs and grids. | 0 | 13 |
 | [Graphs](concepts/15-graphs/questionbank.md) | Modelling problems as nodes and edges: traversal, cycles, ordering and connectivity. | 0 | 13 |
-| [Greedy](concepts/16-greedy/questionbank.md) | Commit to the locally best choice, and be able to argue why it stays safe. | 0 | 12 |
+| [Greedy](concepts/16-greedy/questionbank.md) | Commit to the locally best choice, and be able to argue why it stays safe. | 1 | 11 |
 | [Dynamic Programming](concepts/17-dp/questionbank.md) | Define state, write the transition, then choose memoisation or tabulation. | 0 | 15 |
 | [Bit Manipulation](concepts/18-bit-manipulation/questionbank.md) | XOR properties, masks, shifts and counting bits per position. | 0 | 12 |
 | [Math](concepts/19-math/questionbank.md) | Number properties, modular reasoning, overflow and geometry. | 0 | 13 |

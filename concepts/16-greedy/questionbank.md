@@ -11,7 +11,7 @@ Commit to the locally best choice, and be able to argue why it stays safe.
 | ☐ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Furthest reachable index | [C++](0055-jump-game.cpp) |
 | ☐ | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Implicit BFS levels | [C++](0045-jump-game-ii.cpp) |
 | ☐ | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | Reset start on a deficit | [C++](0134-gas-station.cpp) |
-| ☐ | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | Start from the smallest card | [C++](0846-hand-of-straights.cpp) |
+| ✅ | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | Start from the smallest card | [C++](0846-hand-of-straights.cpp) |
 | ☐ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | Extend to the last occurrence | [C++](0763-partition-labels.cpp) |
 | ☐ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | Range of open counts | [C++](0678-valid-parenthesis-string.cpp) |
 | ☐ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | Sort by end time | [C++](0435-non-overlapping-intervals.cpp) |
